@@ -1,2 +1,3 @@
 # git_test
-Hello Odin!
+Hello World! 
+trying the odin project to do some learning for this old brain.
