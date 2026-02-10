@@ -1,4 +1,3 @@
 # git_test
 Hello World!\
-Trying the odin project to do some learning.\
-Will save some templates here for future use.\  
+starting the odin project again because its -30F out and I am bored.\  
